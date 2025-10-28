@@ -1,16 +1,47 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d8f0b1a-3c4d-4e2f-9f1a-0b5e8d7f9c2a" width="150" style="border-radius:50%" />
+</p>
 
-<!--
-**KenyanWarriorTea/KenyanWarriorTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">KenyanWarriorTea</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Game developer in training<br>
+  Code, combat systems & narrative engines<br>
+  Author of original light novel<br>
+  <em>Karate champion mindset — rise, create, improve.</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Kazakhstan • Remote Ready
+</p>
+
+<p align="center">
+  <a href="mailto:mctbekab@gmail.com">mctbekab@gmail.com</a> • 
+  <a href="https://x.com/KenyanWarriorTea">@KenyanWarriorTea</a>
+</p>
+
+---
+
+## Projects
+
+| | |
+|---|---|
+| **[Rank-ELO-Simulator](https://github.com/KenyanWarriorTea/Rank-ELO-Simulator)** | Simulation of ranking systems for competitive games. Python. |
+| **[Kaspi-Web-Scraper](https://github.com/KenyanWarriorTea/Kaspi-Web-Scraper)** | Scrapes product data from Kaspi.kz (title, price, rating, link). Python. |
+| **[contester](https://github.com/KenyanWarriorTea/contester)** | Solutions to AITU Contester problems from my first year. C++. |
+| **[Math_tests](https://github.com/KenyanWarriorTea/Math_tests)** | Simple math quiz with auto-check. JavaScript. |
+| **[Ip_by_masks](https://github.com/KenyanWarriorTea/Ip_by_masks)** | Tool to group IP addresses by subnet masks. Python. |
+
+---
+
+## Tech
+
+```text
+Python • JavaScript • C++ • Git
+
+Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=KenyanWarriorTea&#x26;show_icons=true&#x26;theme=radical&#x26;hide_border=true">
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenyanWarriorTea&#x26;layout=compact&#x26;theme=radical&#x26;hide_border=true">
