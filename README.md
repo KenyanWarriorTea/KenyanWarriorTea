@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6d8f0b1a-3c4d-4e2f-9f1a-0b5e8d7f9c2a" width="150" style="border-radius:50%" />
+  <img src="[https://github.com/user-attachments/assets/6d8f0b1a-3c4d-4e2f-9f1a-0b5e8d7f9c2a](https://avatars.githubusercontent.com/u/238221917?v=4)" width="150" style="border-radius:50%" />
 </p>
 
 <h1 align="center">KenyanWarriorTea</h1>
