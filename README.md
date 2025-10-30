@@ -7,7 +7,7 @@
 <p align="center">
   Game Developer in Training<br>
   C++ and Python (Django) Developer • Gameplay systems and backend logic<br>
-  Motivated to grow in professional game development
+  Motivated to grow in professional game development<br>
   Author of an Original Light Novel<br>
   <em>Karate champion mindset — rise, create, improve.</em>
 </p>
