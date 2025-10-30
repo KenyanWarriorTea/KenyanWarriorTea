@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="mailto:mctbekab@gmail.com">mctbekab@gmail.com</a> • 
-  <a href="https://x.com/KenyanWarriorTea">@KenyanWarriorTea</a>
+  <a href="https://www.linkedin.com/in/beksultan-tokmeil-9a729238b/">Beksultan Tokmeil</a>
 </p>
 
 ---
