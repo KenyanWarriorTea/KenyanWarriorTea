@@ -37,4 +37,4 @@
 ## Tech Stack
 
 ```text
-Python • JavaScript • C++ • Git
+Python • JavaScript • C++ • Git • Django • C# • Java • Docker
